@@ -1,0 +1,48 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=ABeeZee|Crete+Round&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url("components/banner.css");
+
+@import url("components/cards.css");
+
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'ABeeZee', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Crete Round', serif;
+  color: #F50057;
+}
+
+h2 {
+  margin-top: 35px;
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+
+h4 {
+  margin-bottom: -10px;
+  font-size: 22px;
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+
+h5 {
+  font-family: 'ABeeZee', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+/* Custom design below! */
+
